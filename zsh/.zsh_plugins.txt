@@ -1,0 +1,22 @@
+caarlos0/zsh-mkc
+djui/alias-tips
+spikespaz/autoupdate-antibody-zsh
+# Aloxaf/fzf-tab
+
+#caarlos0/zsh-open-github-pr
+
+# annotations are also allowed:
+ohmyzsh/ohmyzsh path:plugins/aws
+ohmyzsh/ohmyzsh path:plugins/git
+ohmyzsh/ohmyzsh path:plugins/macos
+ohmyzsh/ohmyzsh path:plugins/kubectl
+ohmyzsh/ohmyzsh path:plugins/z
+
+# these are important
+# how can i get all of them in lib?
+ohmyzsh/ohmyzsh path:lib/completion.zsh
+
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-syntax-highlighting
