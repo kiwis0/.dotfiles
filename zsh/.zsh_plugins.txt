@@ -4,6 +4,10 @@ spikespaz/autoupdate-antibody-zsh
 # Aloxaf/fzf-tab
 
 #caarlos0/zsh-open-github-pr
+# these are important
+# how can i get all of them in lib?
+ohmyzsh/ohmyzsh path:lib/completion.zsh
+ohmyzsh/ohmyzsh path:lib/functions.zsh
 
 # annotations are also allowed:
 ohmyzsh/ohmyzsh path:plugins/aws
@@ -11,10 +15,9 @@ ohmyzsh/ohmyzsh path:plugins/git
 ohmyzsh/ohmyzsh path:plugins/macos
 ohmyzsh/ohmyzsh path:plugins/kubectl
 ohmyzsh/ohmyzsh path:plugins/z
+ohmyzsh/ohmyzsh path:plugins/web-search
 
-# these are important
-# how can i get all of them in lib?
-ohmyzsh/ohmyzsh path:lib/completion.zsh
+
 
 zsh-users/zsh-completions
 zsh-users/zsh-autosuggestions
